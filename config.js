@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Pocket: Reading',
-			icon: 'folder-archive',
+			icon: 'folder-open',
 			link: 'https://getpocket.com/home',
 		},
 		{
