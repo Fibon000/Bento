@@ -1,5 +1,3 @@
-// ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
-// ╠╩╗║╣ ║║║ ║ ║ ║
 // ╚═╝╚═╝╝╚╝ ╩ ╚═╝
 // ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
@@ -65,7 +63,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Lofi',
 			icon: 'headphones',
-			link: 'https://app.lofi.co/',
+			link: 'https://asoftmurmur.com/',
 		},
 		{
 			id: '4',
