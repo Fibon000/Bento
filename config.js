@@ -73,15 +73,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Pocket: Reading',
+			name: 'File Reading',
 			icon: 'folder-open',
-			link: 'https://getpocket.com/home',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '6',
-			name: 'Libgen - Library',
+			name: "Anna's Archive",
 			icon: 'library',
-			link: 'http://libgen.is/',
+			link: 'https://annas-archive.gd/', 
 		},
 	],
 
@@ -153,24 +153,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'school',
+			icon: 'computer',
 			id: '2',
 			links: [
 				{
-					name: 'Google Classroom',
-					link: 'https://classroom.google.com/u/1/',
+					name: 'GitHub',
+					link: 'https://github.com',
 				},
 				{
-					name: 'USTeP',
-					link: 'https://ustep.ustp.edu.ph/my/',
-				},
-				{
-					name: 'USTP PRISMS',
-					link: 'https://prisms.ustp.edu.ph/',
-				},
-				{
-					name: 'Google Meet',
-					link: 'https://meet.google.com/',
+					name: 'Hugging Face',
+					link: 'https://huggingface.co/',
 				},
 			],
 		},
