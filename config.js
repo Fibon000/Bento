@@ -169,7 +169,7 @@ const CONFIG = {
 					link: 'https://www.freecodecamp.org/learn',
 				},
 				{	
-					name: 'The Odin Project,
+					name: 'The Odin Project',
 					link: 'https://www.theodinproject.com'
 				},
 			],
