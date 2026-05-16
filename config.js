@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.coursera.org/',
 				},
 				{
-					name: 'Udacity',
-					link: 'https://learn.udacity.com',
+					name: 'YouTube Educational',
+					link: 'https://edufilter.github.io/',
 				},
 			],
 		},
