@@ -164,6 +164,14 @@ const CONFIG = {
 					name: 'Hugging Face',
 					link: 'https://huggingface.co/',
 				},
+				{
+					name: 'Free Code Camp',
+					link: 'https://www.freecodecamp.org/learn',
+				},
+				{	
+					name: 'The Odin Project,
+					link: 'https://www.theodinproject.com'
+				},
 			],
 		},
 	],
